@@ -1,0 +1,25 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "learn npm in js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "learning",
+    "route"
+  ],
+  "author": "route academy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "skitter-slider": "^5.1.4"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
